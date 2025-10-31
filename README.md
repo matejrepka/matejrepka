@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matejrepka alias Marep
-- 💻 My website: marep.sk
+- 💻 My website: www.marep.sk
 - 👀 I’m interested in Computers, Design, Math...
 - 🌱 I’m currently studying Applied Infrmatics
 - 💞️ I’m looking to collaborate on Fun projects
