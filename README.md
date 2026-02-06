@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matejrepka alias Marep
 - 💻 My website: www.marep.sk
 - 👀 I’m interested in Computers, Design, Math...
-- 🌱 I’m currently studying Applied Infrmatics
-- 💞️ I’m looking to collaborate on Fun projects
+- 🌱 I’m currently studying Applied Infrmatics at University in Slovakia
+- 💞️ Working on personal and public projects
 - 📫 How to reach me ig:@marep.sk or contact@marep.sk
 - ⚡ Fun fact: I play violin (haven't touched them since last summer I guess :))
